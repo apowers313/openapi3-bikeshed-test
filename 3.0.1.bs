@@ -1,4 +1,13 @@
-# OpenAPI Specification
+<pre class='metadata'>
+Title: OpenAPI Specification
+Shortname: your-spec
+Level: 1
+Status: ED
+Group: fido
+URL: http://example.com/url-this-spec-will-live-at
+Editor: Your Name, Your Company http://example.com/your-company, your-email@example.com, http://example.com/your-personal-website
+Abstract: A short description of your spec, one or two sentences.
+</pre>
 
 #### Version 3.0.1
 
