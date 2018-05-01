@@ -4,7 +4,7 @@ STATUS=`git log -1 --pretty=oneline`
 
 rm -rf out
 mkdir out
-cp 3.0.1.html ./out/
+cp 3.0.1.html ./out/index.html
 # mkdir ./out/images
 # cp images/* ./out/images
 
